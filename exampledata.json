@@ -1,0 +1,566 @@
+{
+  "dorms": [
+    {
+      "Name": "Alumni Hall",
+      "Sex": "Male",
+      "Quad": "South Quad",
+      "Capacity": 225,
+      "Colors": "Green and White",
+      "Chapel": "St. Charles Borromeo",
+      "Mascot": "Dawgs",
+      "Notes": "Established 1931"
+    },
+    {
+      "Name": "Badin Hall",
+      "Sex": "Female",
+      "Quad": "South Quad",
+      "Capacity": 131,
+      "Colors": "Green and White",
+      "Chapel": "St. Stephen Columkille",
+      "Mascot": "Bullfrogs",
+      "Notes": "Historic dorm"
+    },
+    {
+      "Name": "Baumer Hall",
+      "Sex": "Male",
+      "Quad": "West Quad",
+      "Capacity": 251,
+      "Colors": "Burgundy and Gold",
+      "Chapel": "St. Martin de Porres",
+      "Mascot": "Buccaneers",
+      "Notes": "Newer hall"
+    },
+    {
+      "Name": "Breen-Phillips Hall",
+      "Sex": "Female",
+      "Quad": "North Quad",
+      "Capacity": "200 (approx)",
+      "Colors": "Blue and Pink",
+      "Chapel": "St. Francis of Assisi",
+      "Mascot": "Babes",
+      "Notes": "Traditions and events"
+    },
+    {
+      "Name": "Carroll Hall",
+      "Sex": "Male",
+      "Quad": "Far Quad",
+      "Capacity": 102,
+      "Colors": "Crimson and Gold",
+      "Chapel": "St. André Bessette",
+      "Mascot": "Vermin",
+      "Notes": ""
+    },
+    {
+      "Name": "Cavanaugh Hall",
+      "Sex": "Female",
+      "Quad": "North Quad",
+      "Capacity": 211,
+      "Colors": "Green and Purple",
+      "Chapel": "The Holy Spirit",
+      "Mascot": "Chaos",
+      "Notes": ""
+    },
+    {
+      "Name": "Coyle Community in Zahm Hall",
+      "Sex": "Male",
+      "Quad": "North Quad",
+      "Capacity": 176,
+      "Colors": "Green and White",
+      "Chapel": "St. Adalbert",
+      "Mascot": "The Crew",
+      "Notes": ""
+    },
+    {
+      "Name": "Dillon Hall",
+      "Sex": "Male",
+      "Quad": "South Quad",
+      "Capacity": 253,
+      "Colors": "Red and Black",
+      "Chapel": "St. Patrick",
+      "Mascot": "Big Red",
+      "Notes": ""
+    },
+    {
+      "Name": "Duncan Hall",
+      "Sex": "Male",
+      "Quad": "West Quad",
+      "Capacity": 232,
+      "Colors": "Green and Navy",
+      "Chapel": "St. Walter of Pontoise",
+      "Mascot": "Highlanders",
+      "Notes": ""
+    },
+    {
+      "Name": "Dunne Hall",
+      "Sex": "Male",
+      "Quad": "East Quad",
+      "Capacity": 221,
+      "Colors": "Green/Blue/Gray",
+      "Chapel": "Bl. Basil Moreau",
+      "Mascot": "Sentinels",
+      "Notes": ""
+    },
+    {
+      "Name": "Farley Hall",
+      "Sex": "Female",
+      "Quad": "North Quad",
+      "Capacity": 215,
+      "Colors": "Teal and Yellow",
+      "Chapel": "St. John the Evangelist",
+      "Mascot": "Finest",
+      "Notes": ""
+    },
+    {
+      "Name": "Flaherty Hall",
+      "Sex": "Female",
+      "Quad": "East Quad",
+      "Capacity": 226,
+      "Colors": "Lavender and Navy",
+      "Chapel": "Mary Queen of Angels",
+      "Mascot": "Bears",
+      "Notes": ""
+    },
+    {
+      "Name": "Graham Family Hall",
+      "Sex": "Male",
+      "Quad": "East Quad",
+      "Capacity": 262,
+      "Colors": "Purple and Gold",
+      "Chapel": "St. Augustine",
+      "Mascot": "Royals",
+      "Notes": "Newer community"
+    },
+    {
+      "Name": "Howard Hall",
+      "Sex": "Female",
+      "Quad": "South Quad",
+      "Capacity": 148,
+      "Colors": "Yellow and Green",
+      "Chapel": "Our Lady of Lourdes",
+      "Mascot": "Ducks",
+      "Notes": ""
+    },
+    {
+      "Name": "Johnson Family Hall",
+      "Sex": "Female",
+      "Quad": "East Quad",
+      "Capacity": 225,
+      "Colors": "Blue and White",
+      "Chapel": "St. Teresa of Calcutta",
+      "Mascot": "Valkyries",
+      "Notes": ""
+    },
+    {
+      "Name": "Keenan Hall",
+      "Sex": "Male",
+      "Quad": "North Quad",
+      "Capacity": 250,
+      "Colors": "Navy and White",
+      "Chapel": "Holy Cross",
+      "Mascot": "Knights",
+      "Notes": ""
+    },
+    {
+      "Name": "Keough Hall",
+      "Sex": "Male",
+      "Quad": "West Quad",
+      "Capacity": 271,
+      "Colors": "Blue and Red",
+      "Chapel": "Our Lady of Guadalupe",
+      "Mascot": "Kangaroos",
+      "Notes": ""
+    },
+    {
+      "Name": "Knott Hall",
+      "Sex": "Male",
+      "Quad": "Mod Quad",
+      "Capacity": 252,
+      "Colors": "Orange and Blue",
+      "Chapel": "St. Elizabeth Ann Seton",
+      "Mascot": "Juggerknotts",
+      "Notes": ""
+    },
+    {
+      "Name": "Lewis Hall",
+      "Sex": "Female",
+      "Quad": "God (Main) Quad",
+      "Capacity": 269,
+      "Colors": "Blue and Yellow",
+      "Chapel": "St. Theresa of Avila",
+      "Mascot": "Chicks",
+      "Notes": ""
+    },
+    {
+      "Name": "Lyons Hall",
+      "Sex": "Female",
+      "Quad": "South Quad",
+      "Capacity": 182,
+      "Colors": "Black and Gold",
+      "Chapel": "All Souls'",
+      "Mascot": "Lions",
+      "Notes": ""
+    },
+    {
+      "Name": "McGlinn Hall",
+      "Sex": "Female",
+      "Quad": "West Quad",
+      "Capacity": 272,
+      "Colors": "Green",
+      "Chapel": "St. Kateri Tekakwitha",
+      "Mascot": "Shamrocks",
+      "Notes": ""
+    },
+    {
+      "Name": "Morrissey Hall",
+      "Sex": "Male",
+      "Quad": "South Quad",
+      "Capacity": 235,
+      "Colors": "Black and Yellow",
+      "Chapel": "",
+      "Mascot": "The Manor",
+      "Notes": ""
+    },
+    {
+      "Name": "O’Neill Family Hall",
+      "Sex": "Male",
+      "Quad": "West Quad",
+      "Capacity": 279,
+      "Colors": "Blue and Silver",
+      "Chapel": "",
+      "Mascot": "Angry Mob",
+      "Notes": ""
+    },
+    {
+      "Name": "Pangborn Hall",
+      "Sex": "Female",
+      "Quad": "South Quad",
+      "Capacity": 173,
+      "Colors": "Purple and Green",
+      "Chapel": "",
+      "Mascot": "Phoxes",
+      "Notes": ""
+    },
+    {
+      "Name": "Pasquerilla East Hall",
+      "Sex": "Female",
+      "Quad": "Mod Quad",
+      "Capacity": 255,
+      "Colors": "Red and Black",
+      "Chapel": "",
+      "Mascot": "Pyros",
+      "Notes": ""
+    },
+    {
+      "Name": "Pasquerilla West Hall",
+      "Sex": "Female",
+      "Quad": "Mod Quad",
+      "Capacity": 256,
+      "Colors": "Purple and White",
+      "Chapel": "Saint Clare of Assisi",
+      "Mascot": "Purple Weasels",
+      "Notes": ""
+    },
+    {
+      "Name": "Ryan Hall",
+      "Sex": "Female",
+      "Quad": "West Quad",
+      "Capacity": 247,
+      "Colors": "Turquoise and White",
+      "Chapel": "",
+      "Mascot": "Wildcats",
+      "Notes": ""
+    },
+    {
+      "Name": "St. Edward’s Hall",
+      "Sex": "Male",
+      "Quad": "God Quad",
+      "Capacity": 161,
+      "Colors": "Green and Gold",
+      "Chapel": "",
+      "Mascot": "Gentlemen",
+      "Notes": ""
+    },
+    {
+      "Name": "Siegfried Hall",
+      "Sex": "Male",
+      "Quad": "Mod Quad",
+      "Capacity": 240,
+      "Colors": "Maroon and Gray",
+      "Chapel": "",
+      "Mascot": "Ramblers",
+      "Notes": ""
+    },
+    {
+      "Name": "Sorin Hall",
+      "Sex": "Male",
+      "Quad": "God Quad",
+      "Capacity": 144,
+      "Colors": "Blue and Gold",
+      "Chapel": "",
+      "Mascot": "Otters",
+      "Notes": ""
+    },
+    {
+      "Name": "Stanford Hall",
+      "Sex": "Male",
+      "Quad": "North Quad",
+      "Capacity": 254,
+      "Colors": "Green and Gold",
+      "Chapel": "",
+      "Mascot": "Griffins",
+      "Notes": ""
+    },
+    {
+      "Name": "Walsh Hall",
+      "Sex": "Female",
+      "Quad": "God Quad",
+      "Capacity": 182,
+      "Colors": "Navy and Light Blue",
+      "Chapel": "",
+      "Mascot": "Wild Women",
+      "Notes": ""
+    },
+    {
+      "Name": "Welsh Family Hall",
+      "Sex": "Female",
+      "Quad": "West Quad",
+      "Capacity": 281,
+      "Colors": "Blue and White",
+      "Chapel": "",
+      "Mascot": "Whirlwinds",
+      "Notes": ""
+    },
+    {
+      "Name": "Zahm Hall",
+      "Sex": "Swing (Temporary)",
+      "Quad": "North Quad",
+      "Capacity": "Varies",
+      "Colors": "Black and Red",
+      "Chapel": "Saint Albert the Great",
+      "Mascot": "Zahmbies",
+      "Notes": "Swing hall for renovations"
+    }
+  ],
+  "events": [
+    {
+      "Title": "Keenan Revue - Night 1",
+      "Date": "2026-02-26T05:00:00.000Z",
+      "Time": "1899-12-31T01:00:00.000Z",
+      "EndTime": "1899-12-31T03:30:00.000Z",
+      "Location": "Stepan Center",
+      "Dorm": "Keenan Hall",
+      "Category": "Tradition",
+      "Description": "The legendary annual variety show featuring skits, comedy, and musical performances. Proceeds benefit Dismas House.",
+      "Featured": true
+    },
+    {
+      "Title": "Keenan Revue - Night 2",
+      "Date": "2026-02-27T05:00:00.000Z",
+      "Time": "1899-12-31T01:00:00.000Z",
+      "EndTime": "1899-12-31T03:30:00.000Z",
+      "Location": "Stepan Center",
+      "Dorm": "Keenan Hall",
+      "Category": "Tradition",
+      "Description": "Night two of Notre Dame's most beloved student show. Get your tickets early — they go fast.",
+      "Featured": true
+    },
+    {
+      "Title": "Keenan Revue - Night 3",
+      "Date": "2026-02-28T05:00:00.000Z",
+      "Time": "1899-12-31T01:00:00.000Z",
+      "EndTime": "1899-12-31T03:30:00.000Z",
+      "Location": "Stepan Center",
+      "Dorm": "Keenan Hall",
+      "Category": "Tradition",
+      "Description": "Closing night of the Keenan Revue. Don't miss the finale.",
+      "Featured": true
+    },
+    {
+      "Title": "Fisher Regatta",
+      "Date": "2026-04-19T04:00:00.000Z",
+      "Time": "1899-12-30T18:00:00.000Z",
+      "EndTime": "1899-12-30T22:00:00.000Z",
+      "Location": "St. Mary's Lake",
+      "Dorm": "Fisher Hall",
+      "Category": "Tradition",
+      "Description": "Teams build and race homemade boats across the lake. One of the most iconic events of the year.",
+      "Featured": true
+    },
+    {
+      "Title": "Dillon Pep Rally",
+      "Date": "2026-09-04T04:00:00.000Z",
+      "Time": "1899-12-31T00:00:00.000Z",
+      "EndTime": "1899-12-31T02:00:00.000Z",
+      "Location": "South Quad",
+      "Dorm": "Dillon Hall",
+      "Category": "Tradition",
+      "Description": "Comedy skits, dorm cheers, and high energy — the unofficial kickoff to football season.",
+      "Featured": false
+    },
+    {
+      "Title": "Mr. ND Pageant",
+      "Date": "2026-03-27T04:00:00.000Z",
+      "Time": "1899-12-31T01:00:00.000Z",
+      "EndTime": "1899-12-31T03:00:00.000Z",
+      "Location": "Washington Hall",
+      "Dorm": "Walsh Hall",
+      "Category": "Tradition",
+      "Description": "Walsh Hall's annual pageant to crown Mr. ND. Ticket proceeds support St. Margaret's House.",
+      "Featured": false
+    },
+    {
+      "Title": "McGlinn Casino Night",
+      "Date": "2026-03-06T05:00:00.000Z",
+      "Time": "1899-12-31T02:00:00.000Z",
+      "EndTime": "1899-12-31T05:00:00.000Z",
+      "Location": "McGlinn Hall",
+      "Dorm": "McGlinn Hall",
+      "Category": "Social",
+      "Description": "A glamorous casino-themed night with blackjack, roulette, and poker. Dress to impress.",
+      "Featured": false
+    },
+    {
+      "Title": "Carroll Christmas",
+      "Date": "2026-12-05T05:00:00.000Z",
+      "Time": "1899-12-31T00:00:00.000Z",
+      "EndTime": "1899-12-31T03:00:00.000Z",
+      "Location": "Carroll Hall",
+      "Dorm": "Carroll Hall",
+      "Category": "Tradition",
+      "Description": "Christmas lights, hot chocolate, karaoke, and photos with Santa on the far side of campus.",
+      "Featured": false
+    },
+    {
+      "Title": "Lewis House of Pancakes (LHOP)",
+      "Date": "2026-03-13T04:00:00.000Z",
+      "Time": "1899-12-31T04:00:00.000Z",
+      "EndTime": "1899-12-30T07:00:00.000Z",
+      "Location": "Lewis Hall",
+      "Dorm": "Lewis Hall",
+      "Category": "Service",
+      "Description": "Late-night brunch fundraiser by the Chicks. All proceeds benefit the Food Bank of Northern Indiana.",
+      "Featured": false
+    },
+    {
+      "Title": "Dunne Castles for a Cause",
+      "Date": "2026-02-21T05:00:00.000Z",
+      "Time": "1899-12-30T20:00:00.000Z",
+      "EndTime": "1899-12-30T14:00:00.000Z",
+      "Location": "North Quad",
+      "Dorm": "Dunne Hall",
+      "Category": "Service",
+      "Description": "Build cardboard castles and camp out overnight to raise money for the South Bend Center for the Homeless.",
+      "Featured": false
+    },
+    {
+      "Title": "Stanford Mardi Scraw",
+      "Date": "2026-02-14T05:00:00.000Z",
+      "Time": "1899-12-31T01:00:00.000Z",
+      "EndTime": "1899-12-31T04:00:00.000Z",
+      "Location": "Stanford Hall",
+      "Dorm": "Stanford Hall",
+      "Category": "Social",
+      "Description": "Cajun food, king cake, music and masks before Lent begins. Proceeds support Live Well Water.",
+      "Featured": false
+    },
+    {
+      "Title": "Farley 5K",
+      "Date": "2026-04-04T04:00:00.000Z",
+      "Time": "1899-12-30T16:00:00.000Z",
+      "EndTime": "1899-12-30T18:00:00.000Z",
+      "Location": "North Quad",
+      "Dorm": "Farley Hall",
+      "Category": "Service",
+      "Description": "A 5K with an egg hunt and prizes. All proceeds go to Our Lady of the Road.",
+      "Featured": false
+    },
+    {
+      "Title": "Keough Chariot Race",
+      "Date": "2026-04-11T04:00:00.000Z",
+      "Time": "1899-12-30T19:00:00.000Z",
+      "EndTime": "1899-12-30T21:00:00.000Z",
+      "Location": "South Quad",
+      "Dorm": "Keough Hall",
+      "Category": "Tradition",
+      "Description": "Sections build and race chariots across South Quad. Proceeds go to Reins of Life.",
+      "Featured": false
+    },
+    {
+      "Title": "Alumni Iditarod",
+      "Date": "2026-03-20T04:00:00.000Z",
+      "Time": "1899-12-30T18:00:00.000Z",
+      "EndTime": "1899-12-30T18:00:00.000Z",
+      "Location": "South Quad",
+      "Dorm": "Alumni Hall",
+      "Category": "Service",
+      "Description": "24 consecutive hours of jogging around South Quad in relay fashion. A true test of Dawg endurance.",
+      "Featured": false
+    },
+    {
+      "Title": "Duncan 9/11 Stair Climb",
+      "Date": "2026-09-11T04:00:00.000Z",
+      "Time": "1899-12-30T14:00:00.000Z",
+      "EndTime": "1899-12-30T18:00:00.000Z",
+      "Location": "Notre Dame Stadium",
+      "Dorm": "Duncan Hall",
+      "Category": "Service",
+      "Description": "Students climb 110 flights of stairs in the stadium to honor first responders. Proceeds go to HEART 9/11.",
+      "Featured": false
+    },
+    {
+      "Title": "Knott Hot Dog Eating Contest",
+      "Date": "2026-03-28T04:00:00.000Z",
+      "Time": "1899-12-30T23:00:00.000Z",
+      "EndTime": "1899-12-31T01:00:00.000Z",
+      "Location": "Knott Hall",
+      "Dorm": "Knott Hall",
+      "Category": "Tradition",
+      "Description": "Knott's iconic hot dog eating contest benefiting the Ronald McDonald House.",
+      "Featured": false
+    },
+    {
+      "Title": "Welsh Fam 5K Color Run",
+      "Date": "2026-04-18T04:00:00.000Z",
+      "Time": "1899-12-30T15:00:00.000Z",
+      "EndTime": "1899-12-30T17:00:00.000Z",
+      "Location": "Campus Trails",
+      "Dorm": "Welsh Family Hall",
+      "Category": "Service",
+      "Description": "The Clary Murphy Thomas Memorial Color Run in honor of the Class of 2002. A colorful morning for a great cause.",
+      "Featured": false
+    },
+    {
+      "Title": "Sophomore Study Night",
+      "Date": "2026-02-10T05:00:00.000Z",
+      "Time": "1899-12-31T02:00:00.000Z",
+      "EndTime": "1899-12-31T05:00:00.000Z",
+      "Location": "Hesburgh Library",
+      "Dorm": "Campus-Wide",
+      "Category": "Academic",
+      "Description": "Open study session with free snacks and tutoring support ahead of midterms.",
+      "Featured": false
+    },
+    {
+      "Title": "ND Day Service Projects",
+      "Date": "2026-03-07T05:00:00.000Z",
+      "Time": "1899-12-30T15:00:00.000Z",
+      "EndTime": "1899-12-30T20:00:00.000Z",
+      "Location": "Various Locations",
+      "Dorm": "Campus-Wide",
+      "Category": "Service",
+      "Description": "Multiple dorm-organized volunteer projects around South Bend. Sign up through your hall.",
+      "Featured": false
+    },
+    {
+      "Title": "Pasquerilla East Pyros Game Night",
+      "Date": "2026-02-20T05:00:00.000Z",
+      "Time": "1899-12-31T01:00:00.000Z",
+      "EndTime": "1899-12-31T04:00:00.000Z",
+      "Location": "Pasquerilla East Hall",
+      "Dorm": "Pasquerilla East Hall",
+      "Category": "Social",
+      "Description": "Board games, video game tournaments, and snacks. Open to all students.",
+      "Featured": false
+    }
+  ]
+}
